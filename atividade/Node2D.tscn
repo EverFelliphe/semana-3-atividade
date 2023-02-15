@@ -10,6 +10,7 @@ margin_left = 36.0
 margin_top = 137.0
 margin_right = 329.0
 margin_bottom = 189.0
+text = "gffkgk"
 
 [node name="Label2" type="Label" parent="LineEdit"]
 margin_left = 4.0
